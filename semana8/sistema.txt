@@ -1,0 +1,4 @@
+Uname -a : nos muestra la informacion completa de nuestro sistema operativo y el hardware
+y el whoami : nos indica con que usuario estamos trabajando actualmente 
+ es importante conocer esta informacion para conocer que permisos tenemos en el sistema y que podemos realizar 
+o si necesitamos mas permisos para ejecutar tareas mas relevantes en un trabajo

@@ -1,0 +1,5 @@
+ escribe en ese archivo 3 prácticas básicas de seguridad digita
+1 : Evitar el uso de credenciales reales 
+2 : Usar contraseñas dificiles de descifrar 
+3 : Tener parches de seguridad actualizados
+

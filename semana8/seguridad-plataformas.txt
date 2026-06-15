@@ -1,0 +1,6 @@
+1 : Gestion de roles y permisos 
+2: Privacidad o anonimato del usuario y sus reportes
+3: Control de informacion sencible 
+4: Limitar las peticiones para evirar spam 
+5: Utilizar espacios o conexiones seguras para sus usuarios
+
