@@ -1,0 +1,12 @@
+Sistema operativo: Es basicamente el sistema central donde se 
+ejecutan todos los recursos necesarios para el desarrollo de cualquier aplicacion
+Node.js: Es el sistema que nos permite ejecutar el codigo 
+a un lenguaje que sistema operativo lo pueda leer , entender y iniciar de manera rapida y facil
+Aplicación server.js : es el archivo con el que defines la logica
+de tu servidor , recibe y procesa informacion para entregar respuestas
+Puerto: Es un enlace virtual especifico para tu servidor
+hace que la red sepa a que dirreccion exacta dirigirse
+tambien recibe y responde peticiones sin interferir con otros 
+Logs: Es simplemente un historial en texto sobre lo
+que sucede en tiempo real en nuestra aplicacion o sistema
+

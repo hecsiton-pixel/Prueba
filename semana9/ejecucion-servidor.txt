@@ -1,0 +1,10 @@
+Cuando ejecutamos el comando node server.js lo que ocurre
+es que damos la orden de iniciar a correr el servidor 
+por lo cual la terminal nos indica que el servidor esta corriendo de manera correcta
+cuando visitamos la ruta nos indica que el servidor funciona 
+y que el servicio es una appi comunitaria de esta manera:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+

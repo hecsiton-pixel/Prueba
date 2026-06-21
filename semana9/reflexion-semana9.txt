@@ -1,0 +1,15 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+Es fundamental que las plataformas sean seguras y esten protegidas ,
+el servidor es basicamente los cimientos de la comunidad 
+si estos cimientos son inseguros o inestables tiene mucho riesgo de carse
+y perder todo el progeso de la comunidad , con el tiempo la comunidad crece 
+por esto es importante mantener estable el servidor para sus usuarios
+evitar caidas , fallos hace que la confianza de la comunidad aumente .
+la seguridad me parece de lo mas importante siempre en un servidor 
+o en las plataformas en general ya que sin esta quedarian 
+expuestas todas las credenciales , datos e informacion sencible 
+de los usuarios , por esto se deben tener las medidas necesarias 
+para protegerse se cualquier ataque o virus con intenciones maliciosas.
+todo esto hace que una comunidad se sienta a salvo y con la seguridad de compartir y participar
+
+
